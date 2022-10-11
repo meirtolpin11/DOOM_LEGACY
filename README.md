@@ -3,7 +3,7 @@
 Fork of https://github.com/id-Software/DOOM.
 Some bugs are fixed so it can be compiled in 2022. 
 
-Compile on 1Ubuntu 16.04 32bit` system.
+Compile on `Ubuntu 16.04 32bit` system.
 
 ```
 # to compile 
